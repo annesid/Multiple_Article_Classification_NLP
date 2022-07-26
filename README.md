@@ -25,7 +25,7 @@ Snippet from tensorboard.
 <img width="1094" alt="mac_tensorboard" src="https://user-images.githubusercontent.com/106498393/180983546-33de7a08-90c6-457c-b48d-863fd373d9c2.png">
 
 ## Data Source
-Thanks to this awesome [data]('https://raw.githubusercontent.com/susanli2016/PyCon-Canada-2019-NLP-Tutorial/master/bbc-text.csv') 
+Thanks to this awesome [data](https://raw.githubusercontent.com/susanli2016/PyCon-Canada-2019-NLP-Tutorial/master/bbc-text.csv) 
 
 ## Execution
 There are 3 .py file included in this repo:
